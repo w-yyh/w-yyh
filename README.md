@@ -13,8 +13,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -78,7 +76,7 @@ Java                     1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/w-yyh/w-yyh/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 18:43:43 UTC
+ Last Updated on 21/12/2024 18:41:35 UTC
 <!--END_SECTION:waka-->
 
 
