@@ -46,20 +46,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 15 mins        █████████████████░░░░░░░░   66.94 % 
-Text                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 52 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-STBridge_project         1 hr 52 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +72,7 @@ Java                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/w-yyh/w-yyh/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 18:45:58 UTC
+ Last Updated on 07/05/2025 18:47:10 UTC
 <!--END_SECTION:waka-->
 
 
