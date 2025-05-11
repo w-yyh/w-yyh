@@ -5,13 +5,15 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,9 +48,9 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   2 mins              █████████████░░░░░░░░░░░░   51.86 % 
-Python                   1 min               ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Text                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Vue.js                   2 mins              █████████████░░░░░░░░░░░░   51.59 % 
+Python                   1 min               ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Text                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 
 🔥 Editors: 
 Cursor                   4 mins              █████████████████████████   100.00 % 
@@ -74,7 +76,7 @@ Java                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/w-yyh/w-yyh/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 18:42:56 UTC
+ Last Updated on 11/05/2025 18:43:32 UTC
 <!--END_SECTION:waka-->
 
 
