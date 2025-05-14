@@ -13,8 +13,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -50,7 +48,7 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 💬 Programming Languages: 
 Vue.js                   4 hrs 33 mins       ███████████████████░░░░░░   76.01 % 
 Python                   57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
@@ -77,7 +75,7 @@ Java                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/w-yyh/w-yyh/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2025 18:47:13 UTC
+ Last Updated on 14/05/2025 18:46:17 UTC
 <!--END_SECTION:waka-->
 
 
