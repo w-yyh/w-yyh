@@ -13,8 +13,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -48,17 +46,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   2 mins              ████████████████░░░░░░░░░   64.99 % 
-VS Code                  1 min               █████████░░░░░░░░░░░░░░░░   35.01 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-软件工程                     3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +72,7 @@ Java                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/w-yyh/w-yyh/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 18:49:49 UTC
+ Last Updated on 27/06/2025 18:48:57 UTC
 <!--END_SECTION:waka-->
 
 
