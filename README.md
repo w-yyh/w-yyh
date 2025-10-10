@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,16 +48,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 26 mins        █████████████████████████   100.00 % 
+Python                   3 hrs 47 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-repGPT2                  1 hr 26 mins        █████████████████████████   100.00 % 
+repGPT2                  3 hrs 45 mins       █████████████████████████   98.83 % 
+reproduceGPT2            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +76,7 @@ Java                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/w-yyh/w-yyh/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2025 18:47:07 UTC
+ Last Updated on 10/10/2025 18:46:02 UTC
 <!--END_SECTION:waka-->
 
 
