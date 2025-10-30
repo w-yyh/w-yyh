@@ -13,11 +13,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 2 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -63,9 +63,9 @@ Windows                  7 mins              ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ███████████████░░░░░░░░░░   60.00 % 
-Vim Script               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Java                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   4 repos             █████████████████░░░░░░░░   66.67 % 
+Vim Script               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
@@ -75,7 +75,7 @@ Java                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/w-yyh/w-yyh/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2025 18:49:09 UTC
+ Last Updated on 30/10/2025 18:49:07 UTC
 <!--END_SECTION:waka-->
 
 
