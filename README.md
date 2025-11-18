@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,7 +75,7 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/w-yyh/w-yyh/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2025 18:49:10 UTC
+ Last Updated on 18/11/2025 19:01:31 UTC
 <!--END_SECTION:waka-->
 
 
